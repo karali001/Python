@@ -7,7 +7,7 @@ CMD acılınca python dıye yazıp entere basarsak cmd python bulur ve orda cal�
 
 print("PYTHON PROGRAMLAMA HOS GELDINIZ")
 print ('PYTHON KODLAMAYA HOS GELDINIZ')
-print("PYTHON KODLAMAYA ENES KARALİ'NİN IZINDE YAZACAKSINIZ")
+
 
 print(4+3)"""toplama"""
 print(4-3)"""cıkarma"""
