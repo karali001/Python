@@ -32,9 +32,5 @@ print(egg)
 
 
 
-MUHENDIS=['yuksek' , 'bilgisayar' , 'muhendısı' , 'enes' , 'karali']
-for MUHENDIS in range(len(MUHENDIS)):
-    print("ındex"+  str(MUHENDIS) + "ABINIZZZZ AKILLI OLUN" +MUHENDIS(MUHENDIS) )
-
     
 
