@@ -1,16 +1,16 @@
-defkullanıcı="ısılnazboku"
-defparola="ahadasıctıamınyum"
+defkullanıcı="abc"
+defparola="xyz"
 
 kullanıcı=input("kullanıcı adı:")
 parola=input("parolanuz:")
 
 
 if((defkullanıcı==kullanıcı) and (defparola==parola)):
-    print("sal kendunu bana")
+    print("Hoşgeldiniz")
 elif((defkullanıcı!=kullanıcı) and (defparola==parola)):
-   print("ısılnaz bokmusun aq kullanıcını bılmeyısun")
+   print("Kullanıcı adı yanlış")
 elif((defkullanıcı==kullanıcı) and (defparola!=parola)):
-    print("sıktır yavsakkkk")
+    print("Şifreniz yanlıştır")
 else:
-    print(" boka bak devam edeyı")
+    print("Lütfen tekrar deneyiniz...")
                   
