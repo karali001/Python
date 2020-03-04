@@ -23,5 +23,5 @@ if butsorusu == 'hayır' :
     print("Eğitim hayatınızda başarılar dileriz.")
 if butsorusu == ' ' :
     print("Soruyu cevaplamadınız sistemden atılacaksınız.\n Tekrar giriş yapınız.")
-print("KARADENİZ TEKNİK ÜNİVERSİTESİ\n YÜK. BİLGİSAYAR MÜHENDİSİ ENES KARALİ")
+
       
