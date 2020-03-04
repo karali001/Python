@@ -1,4 +1,3 @@
-"""YÜK.BİLGİSAYAR MÜHENDİSİ ENES KARALİ BYS GİRİŞ SAYFASI"""
 defkullanıcı="abc"
 defparalo="xyz"
 
