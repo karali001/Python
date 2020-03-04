@@ -1,5 +1,5 @@
 import random
 
-eneskarali={'karakter':'delıkanlı''adammm'}
+eneskarali={'karakter':'ab''xy'}
 
 print('my cat has' + eneskarali['karakter'] + 'veryy beatıful anımals.')
