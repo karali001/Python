@@ -7,7 +7,7 @@ def bacon ():
     egg=0
 
 spam()
-print("YÜKSEK BİLGİSAYAR MÜHENDISI \n ENES KARALİ")
+print("Computer Eng.")
 
 def spam():
     print(egg)
