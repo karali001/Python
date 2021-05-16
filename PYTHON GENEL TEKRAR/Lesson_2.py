@@ -5,6 +5,7 @@ print('ENES\'İN ARABASI VAR')
 ilk="ENES"
 son="KARALİ"
 
+
 """stringlerde sadece toplama ve carpma edılır burda carpma ıkı strıng carpması
 olmaz sadece tek bır strıngın ınt bır sayı ıle carpabılırız float bır sayı ıle
 carpmamız hatayan sebeb olacaktır"""
