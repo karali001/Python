@@ -1,8 +1,0 @@
-print("hello world friend")
-print("what is your name")
-myname=input("")
-print (" nice too meet you" + myname)
-print(len(myname))
-print("who old are you?")
-myage= input("")
-print( " you are" + myage + "old")
