@@ -1,4 +1,4 @@
-defkullanıcı= "EnesKARALİ"
+defkullanıcı= "EnesKARAL"
 defparola="trabzonrize6153"
 
 
